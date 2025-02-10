@@ -1,5 +1,5 @@
 {
 	"nextreleases"[
-		{"date":"xx", "text": "", "status":"backlog"}
+		{"id": 0, "date":"xx", "text": "", "status":"backlog"}
 	]
 }
