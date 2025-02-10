@@ -1,5 +1,7 @@
 {
 	"nextreleases": [
-		{"id": 0, "date":"xx", "text": "", "status":"backlog"}
+		{"id": 0, "date":"February 10, 2025", "text": "This is our first release notes! Here we will announce news and what's coming to Store Empire.", "status":"Done"},
+{"id": 1, "date":"February 10, 2025", "text": "This is our first release notes! Here we will announce news and what's coming to Store Empire.", "status":"Backlog"},
+{"id": 0, "date":"February 10, 2025", "text": "This is our first release notes! Here we will announce news and what's coming to Store Empire.", "status":"OnGoing"}
 	]
 }
