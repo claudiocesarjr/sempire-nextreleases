@@ -1,7 +1,5 @@
 {
 	"nextreleases": [
-		{"id": 0, "date":"February 10, 2025", "text": "This is our first release notes! Here we will announce news and what's coming to Store Empire.", "status":"Done"},
-{"id": 1, "date":"February 10, 2025", "text": "This is our first release notes! Here we will announce news and what's coming to Store Empire.", "status":"Backlog"},
-{"id": 2, "date":"February 10, 2025", "text": "This is our first release notes! Here we will announce news and what's coming to Store Empire.", "status":"OnGoing"}
+		{"id": 0, "date":"February 16, 2025", "text": "Here you will read about new features in Store Empire. I look forward to hearing your feedback. Count on me for improvements and I look forward to seeing you all at the Steam Next Fest.", "status":"Done"}
 	]
 }
